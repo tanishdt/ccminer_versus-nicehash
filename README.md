@@ -32,7 +32,7 @@ This repository provides instructions to mine VerusHash on Android devices using
 6. **Install Mining Script**:
 
     ```
-    curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer_verus-nicehash/main/install.sh | bash
+    curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer/main/install.sh | bash
     ```
 
 7. **Configure Mining Settings**:
