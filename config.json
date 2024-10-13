@@ -1,0 +1,17 @@
+{
+    "pools": [
+        {
+            "name": "NiceHash Versushash",
+            "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
+            "timeout": 150
+        }
+    ],
+    "user": "NHbW3hki7VzdFKxPWTbDH8N5e9TrAzXPnqYh.rn10cc",
+    "pass": "x",
+    "algo": "verushash",
+    "threads": 8,
+    "cpu-priority": 5,
+    "retry-pause": 5,
+    "api-allow": "192.168.0.0/16",
+    "api-bind": "0.0.0.0:4068"
+}
