@@ -48,3 +48,5 @@ This repository provides instructions to mine VerusHash on Android devices using
     ```
     ~/ccminer/start.sh
     ```
+
+***Inspiration taken from https://github.com/TheRetroMike/VerusCliMining***
