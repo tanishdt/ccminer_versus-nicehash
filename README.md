@@ -41,6 +41,7 @@ This repository provides instructions to mine VerusHash on Android devices using
     nano config.json
     ```
 - Adjust the NiceHash pool, BTC payout address (from your NiceHash wallet), and worker name.
+- in the config file, algorithm name for verus is wrong, correct name: verus
 - Save and exit by pressing `<CTRL>-X`, then `Y` and `<ENTER>`.
 
 8. **Start Mining**:
